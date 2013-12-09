@@ -1,0 +1,33 @@
+{
+  "name": "raspberry-j5",
+  "version": "0.0.1",
+  "description": "A J5 interface to the raspberypi hardware",
+  "main": "raspberry-j5.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reconbot/raspberry-j5.git"
+  },
+  "keywords": [
+    "raspberrypi",
+    "raspberry",
+    "pi",
+    "ioboard",
+    "robots",
+    "digital",
+    "io"
+  ],
+  "author": "Francis Gulotta <wizard@roborooter.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/reconbot/raspberry-j5/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-contrib-nodeunit": "~0.2.2",
+    "rewire": "~2.0.0"
+  }
+}
