@@ -25,9 +25,9 @@
     "url": "https://github.com/reconbot/raspberry-j5/issues"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-jshint": "~0.7.0",
-    "grunt-contrib-nodeunit": "~0.2.2",
-    "rewire": "~2.0.0"
+    "grunt": "~1.0.1",
+    "grunt-contrib-jshint": "~1.0.0",
+    "grunt-contrib-nodeunit": "~1.0.0",
+    "rewire": "~2.5.2"
   }
 }
